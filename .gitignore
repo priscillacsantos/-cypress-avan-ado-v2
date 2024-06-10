@@ -3,3 +3,5 @@ lessons/
 cypress/downloads/
 cypress/screenshots/
 cypress/videos/
+cypress/integration/hacker-test2
+cypress/integration/hackerStories-original.spec.js
